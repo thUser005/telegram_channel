@@ -1,5 +1,7 @@
+fastapi
+uvicorn
 telethon
-flask
-flask-socketio
-eventlet
 python-dotenv
+websockets
+python-multipart
+aiofiles
